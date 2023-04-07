@@ -1,0 +1,4 @@
+# MySQL
+export DATABASE_USERNAME='root'
+export DATABASE_PASSWORD='pass'
+export DATABASE_HOST='mysql'
